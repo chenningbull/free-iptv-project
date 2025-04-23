@@ -104,3 +104,9 @@ In your Pull Request you need to provide information to show that the channel is
 Note: Public taxes (whether national or regional, whether called TV License or not) do not constitute a private paid subscription.
 
 If a stream is broken, simply move the channel to the invalid category and replace `[>]` with `[x]` in the url column.
+
+Sponsorship Statement
+======
+
+This project is supported by computing resources from VTEXS's "Open Source Project Free VPS Program."
+Thank you, VTEXS, for supporting the open-source community!
